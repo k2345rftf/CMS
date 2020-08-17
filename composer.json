@@ -1,0 +1,17 @@
+{
+    "name": "k2345rftf/k2345rftf",
+    "authors": [
+        {
+            "name": "Kirill",
+            "email": "36264105+k2345rftf@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Engine\\": "engine",
+            "Cms\\":"cms",
+            "Admin\\": "admin"
+        }
+    }
+}

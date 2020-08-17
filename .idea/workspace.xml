@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a80e24d2-57bf-42ee-aeb7-115149285520" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Новая папка" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1f8Aps1FlEpINxQ7nyqmLU8S1TF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cms" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\cms\engine\services\auth" />
+      <recent name="C:\OSPanel\domains\cms\cms" />
+      <recent name="C:\OSPanel\domains\cms\admin" />
+      <recent name="C:\OSPanel\domains\cms\admin\Controller" />
+      <recent name="C:\OSPanel\domains\cms\engine\services\view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\cms" />
+      <recent name="C:\OSPanel\domains\cms\cms" />
+      <recent name="C:\OSPanel\domains\cms\admin\Assets" />
+      <recent name="C:\OSPanel\domains\cms\admin\View" />
+      <recent name="C:\OSPanel\domains\cms\admin\View\Login" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a80e24d2-57bf-42ee-aeb7-115149285520" name="Default Changelist" comment="" />
+      <created>1595589541263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595589541263</updated>
+      <workItem from="1595589569207" duration="5234000" />
+      <workItem from="1595651143805" duration="8531000" />
+      <workItem from="1595687230501" duration="1008000" />
+      <workItem from="1595829348424" duration="5710000" />
+      <workItem from="1595911822309" duration="9253000" />
+      <workItem from="1595945120772" duration="3446000" />
+      <workItem from="1595995995869" duration="6312000" />
+      <workItem from="1596030135720" duration="1069000" />
+      <workItem from="1596109460362" duration="3756000" />
+      <workItem from="1596121560749" duration="108000" />
+      <workItem from="1596121776724" duration="4055000" />
+      <workItem from="1596175868997" duration="12746000" />
+      <workItem from="1596273329159" duration="8065000" />
+      <workItem from="1596341274084" duration="64000" />
+      <workItem from="1596449309850" duration="2335000" />
+      <workItem from="1596872793526" duration="5893000" />
+      <workItem from="1597378436674" duration="4792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>
